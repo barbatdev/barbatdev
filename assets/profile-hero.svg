@@ -1,0 +1,14 @@
+<svg viewBox="0 0 960 180" role="img" aria-labelledby="title description" xmlns="http://www.w3.org/2000/svg">
+  <title id="title">Juan Barbat - IA aplicada, arquitectura y modernización de software</title>
+  <desc id="description">Banner editorial con el nombre Juan Barbat y las áreas IA aplicada, arquitectura y modernización.</desc>
+  <style>
+    .ink { fill: #24292f; stroke: #24292f; }
+    @media (prefers-color-scheme: dark) { .ink { fill: #f0f6fc; stroke: #f0f6fc; } }
+  </style>
+  <rect x="1" y="1" width="958" height="178" fill="none" class="ink" stroke-opacity="0.28"/>
+  <path d="M48 132H912" class="ink" stroke-opacity="0.22"/>
+  <path d="M48 48H178M782 132H912" fill="none" stroke="#4F6D7A" stroke-width="3"/>
+  <circle cx="198" cy="48" r="5" fill="#4F6D7A"/>
+  <text x="48" y="92" class="ink" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="600" letter-spacing="-1">Juan Barbat</text>
+  <text x="50" y="121" class="ink" fill-opacity="0.72" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" letter-spacing="1.4">IA APLICADA · ARQUITECTURA · MODERNIZACIÓN</text>
+</svg>
