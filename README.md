@@ -32,3 +32,5 @@ Ofrezco [mentoría individual sobre IA](https://barbat.dev/mentoria) y consultor
 ## Contacto
 
 Para evaluar una necesidad concreta de IA, arquitectura o modernización, escriba a [juan@barbat.dev](mailto:juan@barbat.dev).
+
+<!-- actualización de perfil -->
