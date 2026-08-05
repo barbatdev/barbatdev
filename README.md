@@ -25,7 +25,7 @@ Ofrezco [mentoría individual sobre IA](https://barbat.dev/mentoria) y consultor
 
 > ## Trabajo profesional y confidencialidad
 >
-> Mi trabajo principal para empresas se realiza a través de InnIT-SAS. Muchos de esos sistemas y repositorios son privados por razones normales de confidencialidad profesional: pertenecen a clientes, contienen contexto operativo sensible o no fueron concebidos como proyectos públicos.
+> Mi trabajo principal para empresas se realiza a través de [InnIT-SAS](https://innit.com.uy), una software factory uruguaya con sistemas propios en producción desde 2014. Muchos de esos sistemas y repositorios son privados por razones normales de confidencialidad profesional: pertenecen a clientes, contienen contexto operativo sensible o no fueron concebidos como proyectos públicos.
 >
 > Por eso este perfil no pretende representar volumen de contribuciones open source. Los repositorios públicos disponibles son una muestra acotada; el criterio de trabajo está en construir, mantener y mejorar software que funcione bajo condiciones reales.
 
