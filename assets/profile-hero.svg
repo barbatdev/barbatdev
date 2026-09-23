@@ -1,14 +1,64 @@
-<svg viewBox="0 0 960 180" role="img" aria-labelledby="title description" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 960 260" role="img" aria-labelledby="title description" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <title id="title">Juan Barbat - IA aplicada, arquitectura y modernización de software</title>
-  <desc id="description">Banner editorial con el nombre Juan Barbat y las áreas IA aplicada, arquitectura y modernización.</desc>
-  <style>
-    .ink { fill: #24292f; stroke: #24292f; }
-    @media (prefers-color-scheme: dark) { .ink { fill: #f0f6fc; stroke: #f0f6fc; } }
-  </style>
-  <rect x="1" y="1" width="958" height="178" fill="none" class="ink" stroke-opacity="0.28"/>
-  <path d="M48 132H912" class="ink" stroke-opacity="0.22"/>
-  <path d="M48 48H178M782 132H912" fill="none" stroke="#4F6D7A" stroke-width="3"/>
-  <circle cx="198" cy="48" r="5" fill="#4F6D7A"/>
-  <text x="48" y="92" class="ink" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="600" letter-spacing="-1">Juan Barbat</text>
-  <text x="50" y="121" class="ink" fill-opacity="0.72" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" letter-spacing="1.4">IA APLICADA · ARQUITECTURA · MODERNIZACIÓN</text>
+  <desc id="description">Banner oscuro con gradiente azul, nombre Juan Barbat y las áreas IA aplicada, arquitectura y modernización.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#101a26"/>
+      <stop offset="100%" stop-color="#16283b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f8dff"/>
+      <stop offset="60%" stop-color="#7aa7ff"/>
+      <stop offset="100%" stop-color="#b8cfff"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f8dff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#4f8dff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#3d5a80" opacity="0.35"/>
+    </pattern>
+    <radialGradient id="glow" cx="85%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#4f8dff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#4f8dff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- fondo -->
+  <rect x="0" y="0" width="960" height="260" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="0" width="960" height="260" rx="14" fill="url(#dots)"/>
+  <rect x="0" y="0" width="960" height="260" rx="14" fill="url(#glow)"/>
+
+  <!-- borde sutil -->
+  <rect x="1" y="1" width="958" height="258" rx="13" fill="none" stroke="#4f8dff" stroke-opacity="0.25" stroke-width="1.5"/>
+
+  <!-- barra de acento lateral -->
+  <rect x="0" y="14" width="4" height="232" rx="2" fill="url(#accent)"/>
+
+  <!-- línea decorativa superior -->
+  <line x1="56" y1="52" x2="330" y2="52" stroke="url(#fade)" stroke-width="2"/>
+  <circle cx="338" cy="52" r="3" fill="#4f8dff"/>
+
+  <!-- eyebrow -->
+  <text x="56" y="80" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="600" letter-spacing="4.5" fill="#7aa7ff">MAINTAINER · EMBAJADOR · MENTOR</text>
+
+  <!-- nombre -->
+  <text x="54" y="146" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#f0f6fc">Juan Barbat</text>
+
+  <!-- tagline -->
+  <text x="56" y="186" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19" font-weight="500" fill="#8b949e">IA que funciona en producción. Arquitectura que sobrevive a la IA.</text>
+
+  <!-- chips de áreas -->
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="600" letter-spacing="1">
+    <rect x="56" y="206" width="118" height="30" rx="15" fill="#4f8dff" fill-opacity="0.12" stroke="#4f8dff" stroke-opacity="0.4"/>
+    <text x="115" y="225" text-anchor="middle" fill="#9cc0ff">IA APLICADA</text>
+
+    <rect x="186" y="206" width="158" height="30" rx="15" fill="#4f8dff" fill-opacity="0.12" stroke="#4f8dff" stroke-opacity="0.4"/>
+    <text x="265" y="225" text-anchor="middle" fill="#9cc0ff">ARQUITECTURA</text>
+
+    <rect x="356" y="206" width="170" height="30" rx="15" fill="#4f8dff" fill-opacity="0.12" stroke="#4f8dff" stroke-opacity="0.4"/>
+    <text x="441" y="225" text-anchor="middle" fill="#9cc0ff">MODERNIZACIÓN</text>
+  </g>
 </svg>
