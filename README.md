@@ -33,7 +33,7 @@ Proyectos que mantengo y desarrollo:
 | Proyecto | Qué es |
 | --- | --- |
 | [![Gentle AI](https://img.shields.io/badge/Gentle_AI™-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/gentle-ai) | La distribución completa de disciplina de ingeniería para agentes de código. |
-| [![gentle-shell](https://img.shields.io/badge/gentle--shell-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/gentle-shell) | Shell para trabajo controlado con agentes. |
+| [![gentle-shell](https://img.shields.io/badge/Gentle_Shell™-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/gentle-shell) | Shell para trabajo controlado con agentes. |
 | [![Engram](https://img.shields.io/badge/Engram™-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/engram) | Memoria persistente para agentes de código. |
 
 Como [embajador de NaN.Builders](https://cloud.nan.builders/r/VNJPBRVM) acompaño la adopción de su plataforma de modelos para agentes en la comunidad hispanohablante.
