@@ -22,18 +22,18 @@
 
 Integro capacidades de IA en sistemas que ya tienen usuarios, deuda técnica, restricciones de seguridad y necesidad de mantenimiento. El objetivo no es sumar IA por tendencia: es resolver un problema concreto sin deteriorar la arquitectura.
 
-**Maintainer** del ecosistema [Gentle AI™](https://github.com/Gentleman-Programming/gentle-ai) · **Embajador** de [NaN.Builders](https://nan.builders/)
+**Maintainer** del ecosistema [Gentle-AI™](https://github.com/Gentleman-Programming/gentle-ai) · **Embajador** de [NaN.Builders](https://nan.builders/)
 
 ---
 
-## Ecosistema Gentle AI™
+## Ecosistema Gentle-AI™
 
 Proyectos que mantengo y desarrollo:
 
 | Proyecto | Qué es |
 | --- | --- |
-| [![Gentle AI](https://img.shields.io/badge/Gentle_AI™-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/gentle-ai) | La distribución completa de disciplina de ingeniería para agentes de código. |
-| [![gentle-shell](https://img.shields.io/badge/Gentle_Shell™-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/gentle-shell) | Shell para trabajo controlado con agentes. |
+| [![Gentle-AI](https://img.shields.io/badge/Gentle--AI™-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/gentle-ai) | La distribución completa de disciplina de ingeniería para agentes de código. |
+| [![Gentle-Shell™](https://img.shields.io/badge/Gentle--Shell™-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/gentle-shell) | Shell para trabajo controlado con agentes. |
 | [![Engram](https://img.shields.io/badge/Engram™-1a1a2e?style=flat-square&logo=github)](https://github.com/Gentleman-Programming/engram) | Memoria persistente para agentes de código. |
 
 Como [embajador de NaN.Builders](https://cloud.nan.builders/r/VNJPBRVM) acompaño la adopción de su plataforma de modelos para agentes en la comunidad hispanohablante.
@@ -80,6 +80,6 @@ Ofrezco [mentoría individual sobre IA](https://barbat.dev/mentoria) y consultor
 
 <p align="center">
   <a href="https://github.com/Gentleman-Programming/gentle-ai">
-    <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle AI™" />
+    <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI™" />
   </a>
 </p>
